@@ -1,4 +1,4 @@
-<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://portfolio-byme.netlify.app">Shudhanshu Kumar Tiwari</a></h2>
+<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://portfolio-official-ten.vercel.app/">Aditya</a></h2>
 
 <br/>
 
@@ -6,10 +6,10 @@
 <p>This project is my personal portfolio which features some of my skills, GitHub projects and my resume.</p>
 <p>These technologies are used to build this website:</p>
 <ul>
+  <li>C++</li>
+  <li>Machine Learning</li>
   <li>React.js</li>
-  <li>Git</li>
-  <li>npm packages</li>
-  <li>netlify</li>
+  <li>MongoDB</li>
 </ul>
 
 <p>Some of the features of this website are:</p>
